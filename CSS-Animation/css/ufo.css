@@ -88,6 +88,7 @@
   transform: translate(-50%, -71%);
   width: 300px;
   height: 150px;
+  border-top: 2px solid black;
   border-radius: 150px 150px 0 0;
   background-color: #B1ECBF;
   animation: windowMove 8s ease-in-out alternate 2;
